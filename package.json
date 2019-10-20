@@ -1,0 +1,26 @@
+{
+  "name": "charitydiscount-docs",
+  "version": "1.0.0",
+  "description": "CharityDiscount technical presentation and description",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charitydiscount/docs.git"
+  },
+  "keywords": [
+    "charitydiscount"
+  ],
+  "author": "Andrei Stefanie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charitydiscount/docs/issues"
+  },
+  "homepage": "https://github.com/charitydiscount/docs#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
